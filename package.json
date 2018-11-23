@@ -5,7 +5,9 @@
   "author": "Alex Vivero",
   "dependencies": {
     "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
     "axios": "^0.18.0",
+    "core-js": "^2.5.7",
     "gatsby": "^2.0.0",
     "gatsby-plugin-manifest": "^2.0.2",
     "gatsby-plugin-offline": "^2.0.5",
