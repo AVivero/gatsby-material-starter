@@ -1,11 +1,9 @@
 import React from 'react';
 
-import '../atoms/theme/index.scss';
+import App from '../containers/App';
 
 const Index = () => (
-  <p>
-    Gatsby Material Starter
-  </p>
+  <App />
 );
 
 export default Index;
