@@ -4,10 +4,8 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's redux starter - Based in Gatsby's default starter
+  Gatsby's material ui starter - Based in Gatsby's default starter
 </h1>
-
-This starter provides mutitples technologies out of the box like Redux, Sass, Bootstrap and others. 
 
 ## 🚀 Quick start
 
